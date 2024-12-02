@@ -1,0 +1,14 @@
+We upload builder file like HTML/CSS/JS not react code
+
+Why React ?
+1. Help in complexity, normal Js code is too tough write with big applications, we also have options like JQeury and BackBoneJS which help in complexity of DOMs, but till complex.
+
+React Jargons
+1. State
+2. Components
+3. Re-Rendering
+
+State : data whoich change with time or event Ex. Counter, Views, Post, Feed, Notifications
+Component : How a DOM element should render given a state, It is a re-usable, dynamic, HTML Snippets
+Re-Render : State change trigger re-render, acutal DOM manipulate when state changes
+
